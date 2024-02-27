@@ -26,8 +26,8 @@ body {
 
 .container {
   border: solid;
-  padding: 30px;
-  width: clamp(280px, 90%, 400px);
+  padding: 25px;
+  width: clamp(280px, 90%, 380px);
   height: clamp(80px, 50vh, 200px);
   display: flex;
   flex-direction: column;
